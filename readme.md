@@ -1,3 +1,3 @@
 1, Abeselom Dejene........ugr/22701/13
-2, Amanuel Dereje
-3, Derib Adane
+2, Amanuel Dereje.........
+3, Direb Adane............ugr/23365/13
